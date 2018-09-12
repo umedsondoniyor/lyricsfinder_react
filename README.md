@@ -9,7 +9,7 @@ Get your API key and add to the .env file
 [https://developer.musixmatch.com](https://developer.musixmatch.com)
 
 ## Quick Start
-Before installing dependencies please install npm or yarn or whatever package manager you want then run the commands below.
+Before installing dependencies please install **npm** or **yarn** or whatever package manager you want then run the commands below.
 
 ```bash
 # Install dependencies
