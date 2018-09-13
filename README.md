@@ -23,6 +23,8 @@ npm run build
 ```
 
 ## App Info
+Only CSS of Bootstrap is used by pasting the link on public/index.html.
+Font Awesome is also used by pasting the link on public/index.html
 
 ### Refrence
 
