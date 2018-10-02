@@ -22,9 +22,9 @@ npm run build
 ```
 
 ## App Info
-Only CSS of Bootstrap is used by pasting the link on public/index.html.
-Font Awesome is also used by pasting the link on public/index.html
-Axios Library for using API by importing to Lyrics.js|Search.js|context.js| where I needed to get the data.
+* Only CSS of Bootstrap is used by pasting the link on public/index.html.
+* Font Awesome is also used by pasting the link on public/index.html
+* Axios Library for using API by importing to Lyrics.js|Search.js|context.js| where I needed to get the data.
 
 
 
