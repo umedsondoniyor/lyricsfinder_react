@@ -1,13 +1,11 @@
 # LyricFinder App
 You can check out the application from <a href="https://umedzhon-2nd-react-app-update.herokuapp.com/">here.</a> I've used <a href="https://www.heroku.com/">Heroku</a> to deploy application. Yes it's possible to deploy applications only if you don't use backend codes. It's also possible to deploy applications on Github Pages but only if you don't use API. In my situation I used Heroku instead of Github Pages because it doesn't support getting data through API by using axios library.
 
-> App that finds song lyrics using React and the Musixmatch API.
 
 ## Musixmatch API
 
-Get your API key and add to the .env file
+App that finds song lyrics using React and the Musixmatch API. Get your API key <a href="https://developer.musixmatch.com">here</a> and add to the .env file.
 
-[https://developer.musixmatch.com](https://developer.musixmatch.com)
 
 ## Quick Start
 Before installing dependencies please install **npm** or **yarn** or whatever package manager you want then run the commands below.
