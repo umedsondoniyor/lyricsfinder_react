@@ -2,6 +2,7 @@
 node_modules
 ./node_modules/*
 node_modules/*
+.env
 scripts/flow/*/.flowconfig
 .flowconfig
 *~
@@ -25,7 +26,7 @@ chrome-user-data
 .vscode
 *.swp
 *.swo
-.env
+
 
 packages/react-devtools-core/dist
 packages/react-devtools-extensions/chrome/build
